@@ -1,0 +1,17 @@
+C:\Users\Leandro Pereira\source\repos\SistemaMilitarPereira\bin\Debug\SistemaMilitarPereira.exe.config
+C:\Users\Leandro Pereira\source\repos\SistemaMilitarPereira\bin\Debug\SistemaMilitarPereira.exe
+C:\Users\Leandro Pereira\source\repos\SistemaMilitarPereira\bin\Debug\SistemaMilitarPereira.pdb
+C:\Users\Leandro Pereira\source\repos\SistemaMilitarPereira\bin\Debug\BE.dll
+C:\Users\Leandro Pereira\source\repos\SistemaMilitarPereira\bin\Debug\BLL.dll
+C:\Users\Leandro Pereira\source\repos\SistemaMilitarPereira\bin\Debug\DAL.dll
+C:\Users\Leandro Pereira\source\repos\SistemaMilitarPereira\bin\Debug\BE.pdb
+C:\Users\Leandro Pereira\source\repos\SistemaMilitarPereira\bin\Debug\BLL.pdb
+C:\Users\Leandro Pereira\source\repos\SistemaMilitarPereira\bin\Debug\DAL.pdb
+C:\Users\Leandro Pereira\source\repos\SistemaMilitarPereira\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Leandro Pereira\source\repos\SistemaMilitarPereira\obj\Debug\SistemaMilitarPereira.Form1.resources
+C:\Users\Leandro Pereira\source\repos\SistemaMilitarPereira\obj\Debug\SistemaMilitarPereira.Properties.Resources.resources
+C:\Users\Leandro Pereira\source\repos\SistemaMilitarPereira\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Leandro Pereira\source\repos\SistemaMilitarPereira\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Leandro Pereira\source\repos\SistemaMilitarPereira\obj\Debug\GUI.csproj.Up2Date
+C:\Users\Leandro Pereira\source\repos\SistemaMilitarPereira\obj\Debug\SistemaMilitarPereira.exe
+C:\Users\Leandro Pereira\source\repos\SistemaMilitarPereira\obj\Debug\SistemaMilitarPereira.pdb
