@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "..\BLL\BLL.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{C9EEC9B7-9F67-44F5-944D-0CB339BE0F63}"
 EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SharedProject1", "..\SharedProject1\SharedProject1.shproj", "{809853C6-F62A-42F0-86DF-012CC5F3A8CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,5 +41,8 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D5D36BA6-80D0-462C-BBBC-28497A48D4C3}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\SharedProject1\SharedProject1.projitems*{809853c6-f62a-42f0-86df-012cc5f3a8ca}*SharedItemsImports = 13
 	EndGlobalSection
 EndGlobal

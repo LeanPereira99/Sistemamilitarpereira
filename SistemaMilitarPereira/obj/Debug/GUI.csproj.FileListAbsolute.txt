@@ -15,3 +15,7 @@ C:\Users\Leandro Pereira\source\repos\SistemaMilitarPereira\obj\Debug\GUI.csproj
 C:\Users\Leandro Pereira\source\repos\SistemaMilitarPereira\obj\Debug\GUI.csproj.Up2Date
 C:\Users\Leandro Pereira\source\repos\SistemaMilitarPereira\obj\Debug\SistemaMilitarPereira.exe
 C:\Users\Leandro Pereira\source\repos\SistemaMilitarPereira\obj\Debug\SistemaMilitarPereira.pdb
+C:\Users\Leandro Pereira\source\repos\SistemaMilitarPereira\bin\Debug\SistemaMilitarPereira.exe.manifest
+C:\Users\Leandro Pereira\source\repos\SistemaMilitarPereira\bin\Debug\SistemaMilitarPereira.application
+C:\Users\Leandro Pereira\source\repos\SistemaMilitarPereira\obj\Debug\SistemaMilitarPereira.exe.manifest
+C:\Users\Leandro Pereira\source\repos\SistemaMilitarPereira\obj\Debug\SistemaMilitarPereira.application

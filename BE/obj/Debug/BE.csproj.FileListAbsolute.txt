@@ -1,0 +1,6 @@
+C:\Users\Leandro Pereira\source\repos\BE\bin\Debug\BE.dll
+C:\Users\Leandro Pereira\source\repos\BE\bin\Debug\BE.pdb
+C:\Users\Leandro Pereira\source\repos\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Leandro Pereira\source\repos\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Leandro Pereira\source\repos\BE\obj\Debug\BE.dll
+C:\Users\Leandro Pereira\source\repos\BE\obj\Debug\BE.pdb
